@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WorkApp</string>
+    <string name="Const1">Usuario:</string>
+    <string name="Const2">Contraseña:</string>
+    <string name="Const3">Ingresar:</string>
+    <string name="Const4">Registrese Aquí</string>
+    <string name="Const5">Recordar mi contraseña</string>
+    <string name="Const6">__________________________________________________</string>
+    <string name="Const7">WorkApp_Here</string>
+    <string name="Const8">Tipo de Registro</string>
+    <string name="Const9">Continuar</string>
+    <string name="Const10">Diligencie el siguiente formulario:</string>
+    <string name="Const11">Ingrese usuario y contraseña para el registro</string>
+    <string name="Const12">Ingeniero en Sistemas con 3 años de experiencia en el desarrollo e implementación de soluciones de software y hardware, tanto en plataformas web como móviles. Habilidades destacadas en el manejo de lenguajes de programación como Java, Python y C++. Experiencia en trabajo con equipos multidisciplinarios,solución de problemas y capacidad para adaptarse a rápidos cambios tecnológicos.</string>
+    <string name="Const13">Programador Web, Banco Santander - Agosto 2017–Diciembre 2019 // Desarrollador Web, Flame Analytics - Enero 2016-Agosto 2017</string>
+    <string name="Const14">Ingeniería Técnica en Informática de Sistemas  //  Universidad Complutense  de Madrid - 2012-2015</string>
+    <string name="contactos"><![CDATA[<<Contactos>>]]></string>
+    <string name="Const15">Estudios</string>
+    <string name="Const16">Experiencia Laboral</string>
+    <string name="Const17">6
+
+        Buscamos un desarrollador capaz de crecer y ayudar a crecer nuestra plataforma. Que sepa trabajar con buenas prácticas y sin miedo a los retos. Somos una empresa pequeña y estamos empezando a ampliar nuestro equipo.
+
+    </string>
+    <string name="Const18">
+        Se requiere un profesional de ingeniera de sistemas o carreras afines, con conocimientos en Cobol (Componentes Batch - Online), JCL, Control-M, Manejo de Altamira (Changeman (Promocion, creacion de expedientes, visualización componentes, checkout de componentes, consulta del Spool), Manejo de Cics (Arquitectura, Alta de transacciones, QM), Conocimiento en DB2 (Consulta de tablas, creación de querys SQL).
+    </string>
+</resources>
