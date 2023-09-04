@@ -19,9 +19,8 @@ jobs:
           java-version: '11'
           distribution: 'temurin'
           cache: gradle
+
       - name: Setup Gradle
         uses: gradle/gradle-buid-action@v2
       - name: Build app
         run: ./gradlew assemble
-
-
